@@ -4,44 +4,44 @@ This page is for scratch notes on the capabilities desired for our groovy gloves
 
 ## Example 1
 
-* Info
+* Info:    
 IE: Who is the creator or maker-community behind this?  Links to specifications, GitHub repos, demo videos, etc
 
-* Capabilities:
+* Capabilities:     
 IE: What capabilities does it have?  
 
-* Scenarios:
+* Scenarios:      
 IE: What kind of narratives, music and performative interactions could it enable?
 
-* Requirements: 
+* Requirements:      
 IE: Where do we get the parts and how much do they cost?  Are special tools and/or skills required to build it? 
 
 
 ## Example 2
 
-* Info
+* Info      
 IE: Who is the creator or maker-community behind this?  Links to specifications, GitHub repos, demo videos, etc
 
-* Capabilities:
+* Capabilities:        
 IE: What capabilities does it have?  
 
-* Scenarios:
+* Scenarios:      
 IE: What kind of narratives, music and performative interactions could it enable?
 
-* Requirements: 
+* Requirements:       
 IE: Where do we get the parts and how much do they cost?  Are special tools and/or skills required to build it? 
 
 
 ## Example N
 
-* Info
+* Info         
 IE: Who is the creator or maker-community behind this?  Links to specifications, GitHub repos, demo videos, etc
 
-* Capabilities:
+* Capabilities:           
 IE: What capabilities does it have?  
 
-* Scenarios:
+* Scenarios:         
 IE: What kind of narratives, music and performative interactions could it enable?
 
-* Requirements: 
+* Requirements:      
 IE: Where do we get the parts and how much do they cost?  Are special tools and/or skills required to build it? 
